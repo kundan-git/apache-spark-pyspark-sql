@@ -1,0 +1,12 @@
+Processing Time:49.0000247955 msec.
+Input a year and populate top 5 most popular names registered that year
++-------+-----+
+|   name|count|
++-------+-----+
+|   John| 9655|
+|William| 9532|
+|   Mary| 7065|
+|  James| 5927|
+|Charles| 5348|
++-------+-----+
+only showing top 5 rows

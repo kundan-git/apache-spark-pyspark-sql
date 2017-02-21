@@ -1,0 +1,7 @@
+Processing Time:9.0000629425 msec.
+Input a child name and populate total number of birth registrations throughout the dataset for that name:
++----------+
+|sum(Count)|
++----------+
+|4130441   |
++----------+

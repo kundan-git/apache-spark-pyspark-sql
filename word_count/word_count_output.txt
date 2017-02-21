@@ -1,0 +1,2583 @@
+Total distinct words:2580
+
+	Word  Count
+   thou     88
+	thy     54
+   thee     51
+   thus     43
+	one     42
+  light     33
+	yet     31
+   hath     29
+	may     28
+ whence     23
+ nature     23
+   love     22
+  whose     22
+   well     22
+   made     21
+   doth     20
+	god     20
+  truth     20
+   must     20
+	 us     20
+  first     19
+	 ye     19
+  world     19
+   good     17
+  heavn     17
+  words     16
+	een     16
+  would     16
+	see     16
+  cause     16
+   like     15
+	man     15
+  turnd     15
+ virtue     14
+ thence     14
+  earth     14
+   mind     14
+  power     14
+therefore     14
+	eye     13
+different     13
+beatrice     13
+  still     13
+  forth     13
+	saw     13
+   upon     13
+   life     13
+ within     12
+   part     12
+ spirit     12
+  shall     12
+   mine     12
+   less     12
+   know     12
+eternal     12
+  hence     12
+  great     12
+   rest     12
+  since     12
+   eyes     12
+	 th     11
+	ill     11
+  makes     11
+ desire     11
+  alone     11
+	sun     11
+ heaven     11
+thought     10
+   come     10
+   true     10
+  doubt     10
+   make     10
+   ever     10
+   much     10
+  needs     10
+  voice     10
+  began     10
+   neer     10
+   beam     10
+   next     10
+  sight     10
+   fair     10
+  might      9
+  comes      9
+   mark      9
+celestial      9
+	joy      9
+  speak      9
+	new      9
+   deep      9
+  flame      9
+  spake      8
+another      8
+	let      8
+ things      8
+  round      8
+ though      8
+  realm      8
+   wish      8
+	art      8
+	way      8
+ mortal      8
+  sweet      8
+   soon      8
+   tell      8
+wouldst      8
+   unto      8
+ either      8
+ behold      8
+   back      8
+justice      7
+   bent      7
+ bright      7
+  human      7
+   high      7
+  never      7
+	far      7
+   long      7
+   wont      7
+   left      7
+  point      7
+erewhile      7
+  seemd      7
+  thine      7
+ sphere      7
+   soul      7
+  beams      7
+	ere      7
+   view      7
+  grace      7
+ course      7
+ mighty      7
+   free      7
+  every      7
+wrought      7
+   gave      7
+   fell      6
+ motion      6
+ change      6
+ church      6
+   else      6
+   fire      6
+   work      6
+   star      6
+substance      6
+   even      6
+ return      6
+ little      6
+saintly      6
+   wilt      6
+   deem      6
+gladness      6
+ better      6
+   many      6
+spirits      6
+  third      6
+ thirst      6
+straight      6
+	vow      6
+thoughts      6
+   hand      6
+  could      6
+blessed      6
+   said      6
+   held      6
+  aught      6
+   near      6
+   hour      6
+   holy      6
+   body      6
+   look      6
+ matter      6
+   hear      6
+  blest      5
+  faith      5
+   fail      5
+brother      5
+ beyond      5
+ lights      5
+  lofty      5
+   born      5
+   came      5
+clearly      5
+   land      5
+   hold      5
+   give      5
+  seems      5
+	day      5
+ wonder      5
+forthwith      5
+  worth      5
+   save      5
+   form      5
+  didst      5
+ shines      5
+   hast      5
+affection      5
+   time      5
+ height      5
+ toward      5
+	ray      5
+following      5
+returnd      5
+intellectual      5
+ intent      5
+   fixd      5
+  clear      5
+without      5
+reflected      5
+	ken      5
+	two      5
+ reason      5
+   kind      5
+   lady      5
+   dost      5
+ primal      5
+   last      5
+  order      5
+pleasure      5
+	act      5
+	orb      5
+   wave      5
+  stars      5
+  place      5
+   void      5
+	end      5
+  mayst      5
+  years      5
+   song      5
+  sound      4
+remains      4
+  shown      4
+  alike      4
+already      4
+   show      4
+   suns      4
+   name      4
+   side      4
+  stand      4
+answerd      4
+   move      4
+   sign      4
+circling      4
+   turn      4
+ shores      4
+   movd      4
+   keep      4
+  state      4
+  water      4
+ divine      4
+singing      4
+   warm      4
+   rare      4
+   late      4
+  drawn      4
+   rise      4
+henceforth      4
+   food      4
+  equal      4
+	aid      4
+ shadow      4
+   gaze      4
+	set      4
+  shape      4
+paradise      4
+   pass      4
+  death      4
+   seed      4
+ second      4
+   dark      4
+   orbs      4
+	sea      4
+  thing      4
+ create      4
+   none      4
+  guide      4
+ around      4
+  three      4
+  wings      4
+  hands      4
+  shine      4
+throughout      4
+  heard      4
+ hearts      4
+thyself      4
+  force      4
+   till      4
+ sacred      4
+  learn      4
+radiance      4
+   full      4
+ prompt      4
+	son      4
+  bound      4
+  steps      4
+   pure      4
+ smiles      4
+violence      4
+ bounty      4
+vengeance      4
+ strain      4
+   step      4
+	men      4
+   face      4
+   lies      4
+ bodies      4
+   veil      4
+	 lo      4
+ behind      4
+  wrong      4
+  means      4
+	put      4
+providence      4
+question      4
+shepherd      3
+	ask      3
+ arrivd      3
+perfect      3
+  proof      3
+ marvel      3
+failure      3
+ wheels      3
+  wheel      3
+satisfaction      3
+perchance      3
+ proper      3
+ stream      3
+  happy      3
+content      3
+  heart      3
+  hides      3
+	hue      3
+ merely      3
+piccarda      3
+   fond      3
+supreme      3
+ honour      3
+assignd      3
+   told      3
+ higher      3
+ nought      3
+ worthy      3
+  dwelt      3
+   also      3
+perplexd      3
+  peril      3
+	eer      3
+ spring      3
+sacrifice      3
+ longer      3
+  lookd      3
+  court      3
+	oer      3
+  hadst      3
+  broad      3
+	woe      3
+wherefore      3
+   sole      3
+  framd      3
+ others      3
+declare      3
+   seen      3
+  seest      3
+   take      3
+  enter      3
+   deed      3
+   glad      3
+   path      3
+passage      3
+  taken      3
+  prizd      3
+  speed      3
+  stood      3
+delight      3
+  maker      3
+beneath      3
+appears      3
+   best      3
+  shalt      3
+  prime      3
+ sparks      3
+   gods      3
+fountain      3
+  crown      3
+	old      3
+whereof      3
+hundred      3
+splendour      3
+	say      3
+   lost      3
+created      3
+  sayst      3
+creatures      3
+  think      3
+  pearl      3
+  found      3
+	aim      3
+  among      3
+gracious      3
+  loves      3
+ wholly      3
+   seal      3
+destind      3
+goodness      3
+	apt      3
+ thanks      3
+ towrds      3
+disposd      3
+ mother      3
+   ways      3
+lightning      3
+possessd      3
+ silent      3
+breathes      3
+  dense      3
+   call      3
+  falls      3
+ angels      3
+  fills      3
+ sudden      3
+distinctions      3
+absolute      3
+universe      3
+   fall      3
+  moves      3
+  dwell      3
+   calm      3
+nearest      3
+	bow      3
+appeard      3
+ wishes      3
+  bears      3
+   evil      3
+ knowst      3
+ unfold      3
+  known      3
+   done      3
+ reader      3
+ became      3
+ unlike      3
+   king      3
+  along      3
+   feet      3
+charity      3
+charles      3
+ cannot      3
+ remain      3
+ caesar      3
+  fault      3
+  dread      3
+  shows      3
+  bosom      3
+ admire      3
+ beheld      3
+   fain      3
+effulgence      3
+ follow      3
+	met      3
+ leaves      3
+ lively      3
+ source      3
+discern      3
+  right      3
+directed      3
+immediate      3
+ dwells      3
+  smild      3
+ inform      3
+beauteous      3
+ flight      3
+  ended      3
+  placd      3
+  cloud      3
+ listen      3
+triumph      3
+intellect      3
+ inward      3
+  flesh      3
+resolve      3
+ beside      3
+ sister      2
+   shed      2
+ shapes      2
+favourd      2
+ excess      2
+   soar      2
+   size      2
+extinct      2
+   four      2
+  frame      2
+ fourth      2
+	six      2
+  smile      2
+  small      2
+solution      2
+   feel      2
+ freely      2
+   fear      2
+  folly      2
+exalted      2
+  fails      2
+	air      2
+  error      2
+   aimd      2
+  fitly      2
+  souls      2
+ flames      2
+   shun      2
+  flood      2
+flowing      2
+   foot      2
+   sons      2
+   shot      2
+   erst      2
+  short      2
+essence      2
+   firm      2
+	err      2
+execute      2
+  false      2
+   sire      2
+ single      2
+somewhat      2
+ sorely      2
+  forms      2
+ fierce      2
+envying      2
+ former      2
+  formd      2
+	sin      2
+ sorrow      2
+equally      2
+smiling      2
+ formal      2
+ findst      2
+  space      2
+appearance      2
+  fully      2
+manifested      2
+	lot      2
+   loud      2
+loveliness      2
+	low      2
+luminaries      2
+proceeds      2
+ lustre      2
+addition      2
+   mars      2
+gabriel      2
+precious      2
+   pray      2
+ praise      2
+   maze      2
+   mean      2
+measure      2
+possess      2
+ memory      2
+prompts      2
+  lords      2
+  looks      2
+  prove      2
+   laws      2
+  raisd      2
+   lead      2
+ leader      2
+  leads      2
+  leave      2
+   lest      2
+liberty      2
+	lie      2
+ wreath      2
+  limbs      2
+  limit      2
+pursued      2
+ pursue      2
+   livd      2
+liveliest      2
+ living      2
+   mere      2
+   pope      2
+ yellow      2
+   need      2
+   nigh      2
+  ocean      2
+offence      2
+offspring      2
+	oft      2
+	 oh      2
+   zeal      2
+   open      2
+  opend      2
+opinion      2
+ opposd      2
+  peace      2
+	pay      2
+original      2
+  ounce      2
+  passd      2
+   paid      2
+neglected      2
+ naught      2
+mingled      2
+piteous      2
+ministry      2
+mirrors      2
+  mirth      2
+   miss      2
+ please      2
+mortals      2
+  mount      2
+mountains      2
+ plants      2
+ mournd      2
+  plant      2
+multiplied      2
+murkier      2
+   muse      2
+  plain      2
+   namd      2
+accepts      2
+  raise      2
+  laves      2
+	ran      2
+grievous      2
+satisfy      2
+hallowd      2
+  haply      2
+   hard      2
+harmony      2
+heavens      2
+   rule      2
+   hill      2
+ hither      2
+   rome      2
+hosanna      2
+   roll      2
+   roam      2
+rightly      2
+impelld      2
+  rhone      2
+impression      2
+ guides      2
+   grew      2
+revolving      2
+  scapd      2
+service      2
+seraphim      2
+  sends      2
+  given      2
+   givn      2
+ seldom      2
+  glass      2
+glorious      2
+  glory      2
+   seek      2
+ agrees      2
+ worlds      2
+   seat      2
+ search      2
+  gracd      2
+  worse      2
+greater      2
+impulse      2
+increase      2
+largely      2
+   jove      2
+judgment      2
+ justly      2
+receivd      2
+  kennd      2
+	key      2
+kindness      2
+kingdom      2
+  knits      2
+knowledge      2
+  knows      2
+   lack      2
+  reach      2
+   laid      2
+   lake      2
+   lamb      2
+  lambs      2
+ rarity      2
+ joyous      2
+journey      2
+reverence      2
+  joins      2
+returns      2
+   sped      2
+influence      2
+  rests      2
+restord      2
+resplendence      2
+resemble      2
+inspird      2
+replied      2
+ renown      2
+intention      2
+ render      2
+ removd      2
+inwardly      2
+ remote      2
+ region      2
+  joind      2
+ entire      2
+   sing      2
+  deemd      2
+	wax      2
+suddenly      2
+distant      2
+  times      2
+sufferd      2
+  deeds      2
+ untold      2
+   bond      2
+	web      2
+believe      2
+  upper      2
+translucent      2
+deeming      2
+   wear      2
+   suit      2
+dismantled      2
+ temper      2
+ suited      2
+thousand      2
+ upward      2
+ summit      2
+conceald      2
+distinct      2
+  brows      2
+augmented      2
+contemplate      2
+   bend      2
+treasure      2
+downwards      2
+ tenour      2
+   vale      2
+ assurd      2
+ strong      2
+ assure      2
+   door      2
+declares      2
+  brute      2
+   doom      2
+   vast      2
+compact      2
+burning      2
+   vows      2
+temples      2
+ weight      2
+divides      2
+diversely      2
+   waxd      2
+believd      2
+daughter      2
+   bare      2
+ vanity      2
+desires      2
+towards      2
+answring      2
+torrent      2
+beautiful      2
+together      2
+warfare      2
+descend      2
+   vain      2
+ breast      2
+   talk      2
+ tasted      2
+depravd      2
+consider      2
+   wait      2
+   took      2
+ befall      2
+tardiness      2
+   want      2
+demands      2
+  tracd      2
+bearing      2
+sweetness      2
+   bars      2
+   bark      2
+discordant      2
+discernd      2
+ belief      2
+ direct      2
+  watch      2
+ supply      2
+brightness      2
+digested      2
+brighter      2
+   bear      2
+conceivd      2
+   wise      2
+behooves      2
+  brief      2
+  beamd      2
+constance      2
+beaming      2
+suspense      2
+beholdst      2
+vehement      2
+tidings      2
+contradict      2
+ vessel      2
+standard      2
+ answer      2
+approaching      2
+   wide      2
+elsewhere      2
+ apollo      2
+  whole      2
+whither      2
+  trust      2
+ eighth      2
+  cried      2
+  white      2
+  stern      2
+ almost      2
+betwixt      2
+  blood      2
+argument      2
+  truly      2
+ visage      2
+ changd      2
+  cross      2
+ virgin      2
+  store      2
+circuit      2
+   word      2
+turning      2
+ coverd      2
+christs      2
+ circle      2
+countenance      2
+	tho      2
+circles      2
+ choose      2
+ spouse      2
+ endowd      2
+thither      2
+springs      2
+ sprung      2
+ engagd      2
+  wills      2
+  blast      2
+  twixt      2
+  chief      2
+   city      2
+thrones      2
+corruption      2
+   arms      2
+   dull      2
+  dance      2
+universal      2
+ whenas      2
+unknown      2
+ aspect      2
+  thank      2
+   dusk      2
+   dumb      2
+   care      2
+   cord      2
+   west      2
+ driven      2
+   dart      2
+   cold      2
+  bliss      2
+  ample      2
+capable      2
+   drew      2
+ unmovd      2
+contrary      2
+   dame      2
+ unjust      2
+wondrous      2
+bespake      2
+whatever      2
+ chancd      2
+  eagle      2
+   arts      2
+ chance      2
+thereafter      2
+  close      2
+  veild      2
+   askd      2
+thereat      2
+  clime      2
+proportiond      1
+valorous      1
+promise      1
+  prune      1
+vatican      1
+	van      1
+proportion      1
+	var      1
+propose      1
+  vapry      1
+ victim      1
+variously      1
+  verde      1
+vicious      1
+vanishd      1
+vestige      1
+ vicena      1
+  pupil      1
+provencals      1
+vesture      1
+provide      1
+ vapour      1
+punishd      1
+  proud      1
+various      1
+vapours      1
+ptolemy      1
+ valley      1
+  quire      1
+ vainly      1
+  ready      1
+ undone      1
+  wreak      1
+unerring      1
+unfolds      1
+ reachd      1
+unfruitful      1
+ united      1
+   rays      1
+raymond      1
+  unity      1
+ unless      1
+ravenna      1
+unlocks      1
+ rather      1
+   rash      1
+unmoving      1
+   rapt      1
+reading      1
+understood      1
+  rapid      1
+uncontrollable      1
+  turns      1
+  recks      1
+ tuscan      1
+reckoning      1
+ recess      1
+receives      1
+ twelve      1
+  twice      1
+recalld      1
+ rebukd      1
+reasoning      1
+typhaeus      1
+ unborn      1
+unbroken      1
+  rears      1
+unclosd      1
+unconditional      1
+unquenchd      1
+unreleasd      1
+ quaint      1
+upwards      1
+quintius      1
+  quiet      1
+quickly      1
+   urge      1
+questions      1
+  wrest      1
+questioning      1
+ wished      1
+  using      1
+uttrance      1
+vacancy      1
+ quench      1
+ quelld      1
+  queen      1
+ quatre      1
+  quake      1
+quaintly      1
+   urgd      1
+upsteamd      1
+   rank      1
+quirinus      1
+  range      1
+ random      1
+unreplying      1
+ raised      1
+unripend      1
+unsheathd      1
+unsound      1
+   rain      1
+unswathd      1
+unswervingly      1
+  rahab      1
+   race      1
+ quiver      1
+quitted      1
+  quite      1
+upholds      1
+   quit      1
+wrongfulness      1
+ speech      1
+victorious      1
+perforce      1
+welldisposed      1
+  phial      1
+ phases      1
+pharsalia      1
+ peters      1
+  peter      1
+wellpleasd      1
+perverted      1
+perversely      1
+pervades      1
+   went      1
+perugias      1
+ person      1
+perplexity      1
+perpetual      1
+permits      1
+ perish      1
+   wert      1
+performd      1
+  young      1
+phrasemen      1
+  piava      1
+weighty      1
+weepeth      1
+weetless      1
+  weets      1
+   pity      1
+pitiless      1
+ weighd      1
+ weighs      1
+pilgrim      1
+   pild      1
+welldeservd      1
+pierian      1
+pierces      1
+   wins      1
+   yore      1
+ youand      1
+  welld      1
+ pierce      1
+ piercd      1
+perform      1
+perfectness      1
+ weaves      1
+perfection      1
+  paths      1
+   wild      1
+pastime      1
+passeth      1
+ passes      1
+passages      1
+	win      1
+   wind      1
+partyzeal      1
+   wine      1
+  parts      1
+parting      1
+particular      1
+partial      1
+ parted      1
+partaking      1
+partakes      1
+partake      1
+   wing      1
+wielded      1
+patience      1
+  widow      1
+wherein      1
+perfected      1
+ wheeld      1
+perception      1
+perceptible      1
+perceivd      1
+ people      1
+pennons      1
+whereat      1
+penalty      1
+ widest      1
+wherewith      1
+	pen      1
+whether      1
+pelorus      1
+whisperd      1
+   peer      1
+whiteness      1
+  pause      1
+ yields      1
+plainly      1
+  views      1
+   pour      1
+pressure      1
+preserve      1
+preluding      1
+ volume      1
+preeminence      1
+predestind      1
+vouchsafes      1
+ voyage      1
+praises      1
+ vulgar      1
+recollect      1
+practicei      1
+  powrs      1
+   powr      1
+   wade      1
+ wafted      1
+ powers      1
+	yea      1
+  pourd      1
+pretend      1
+  preyd      1
+  pride      1
+printed      1
+promisd      1
+profound      1
+ vigour      1
+produce      1
+violent      1
+producd      1
+proceed      1
+virtues      1
+principles      1
+ voices      1
+principle      1
+ wrongs      1
+ vision      1
+princedoms      1
+ prince      1
+  visit      1
+ xerxes      1
+ priest      1
+  wages      1
+ potent      1
+ planet      1
+potency      1
+plenitude      1
+ pledge      1
+pleases      1
+pleased      1
+ pleasd      1
+pleasant      1
+pleader      1
+  washd      1
+  plead      1
+   play      1
+  plato      1
+ waters      1
+  waves      1
+   weak      1
+ weaker      1
+  yield      1
+ weapon      1
+planets      1
+wearied      1
+  warpd      1
+   warp      1
+ plough      1
+pondring      1
+possible      1
+  waild      1
+waiting      1
+ wander      1
+   port      1
+wanderd      1
+   poor      1
+ wanton      1
+ pompey      1
+warning      1
+pompeian      1
+polishd      1
+   ware      1
+   pole      1
+ warier      1
+	 po      1
+ plunge      1
+ plumes      1
+reclaimd      1
+  tribe      1
+recompense      1
+  shore      1
+ summon      1
+  showd      1
+sunbeam      1
+  shout      1
+shoulders      1
+   sung      1
+superillustrans      1
+supplied      1
+ surely      1
+surpasseth      1
+   sway      1
+  shoot      1
+  shook      1
+shining      1
+surpassing      1
+survives      1
+  shift      1
+ shield      1
+shepherds      1
+suspended      1
+  showr      1
+	sum      1
+ shrind      1
+ shroud      1
+sublunar      1
+   silk      1
+substances      1
+silence      1
+successive      1
+   sile      1
+signature      1
+   sigh      1
+sigebert      1
+  sides      1
+suffers      1
+sufficd      1
+suffice      1
+sufficeth      1
+   sick      1
+sichaeus      1
+sufficiency      1
+shuttle      1
+shrouded      1
+sustaind      1
+  swayd      1
+ simple      1
+teachers      1
+   sevn      1
+ severs      1
+settled      1
+   task      1
+   sets      1
+ taught      1
+teacher      1
+  serve      1
+serenely      1
+ sequel      1
+swaying      1
+separate      1
+sentence      1
+   sent      1
+sensible      1
+ senses      1
+senseless      1
+  sense      1
+  tells      1
+semblances      1
+  shade      1
+ shaded      1
+shadowd      1
+shadowing      1
+  swift      1
+  sheet      1
+  sheep      1
+  sheds      1
+swiftest      1
+wonders      1
+  sword      1
+  share      1
+  sworn      1
+   taen      1
+tagliamento      1
+  takes      1
+   tale      1
+  shame      1
+shallows      1
+ talons      1
+ tapers      1
+tardiest      1
+ shaken      1
+ simois      1
+suabias      1
+   self      1
+  steep      1
+sorrowful      1
+ states      1
+station      1
+  sorga      1
+steadfast      1
+ steady      1
+   sore      1
+  sooth      1
+ sooner      1
+stifled      1
+ stormy      1
+  stint      1
+  stock      1
+sometimes      1
+sometime      1
+something      1
+  solve      1
+  stoop      1
+  solon      1
+  solid      1
+   sort      1
+stainless      1
+ sought      1
+  stain      1
+sparkling      1
+  spite      1
+sparkles      1
+sparkle      1
+splendent      1
+  spark      1
+splendid      1
+splendours      1
+  spare      1
+   spot      1
+  spots      1
+ sprang      1
+  spain      1
+   sown      1
+sovreignty      1
+  spume      1
+sounded      1
+ spurrd      1
+  staid      1
+soldiery      1
+sojourning      1
+  works      1
+  skill      1
+   slow      1
+   slew      1
+  sleep      1
+  slake      1
+slacker      1
+stretchd      1
+stricken      1
+	sky      1
+skillet      1
+strickly      1
+working      1
+strictly      1
+strikes      1
+	sit      1
+wondring      1
+  sires      1
+sinking      1
+stubbornness      1
+  study      1
+  stuft      1
+sluggishness      1
+slumber      1
+stretch      1
+strengthens      1
+workmans      1
+   soft      1
+ social      1
+soaring      1
+strawlitterd      1
+  stray      1
+ strays      1
+streame      1
+   snow      1
+parnassus      1
+streaming      1
+streams      1
+snatchd      1
+ street      1
+streets      1
+  smote      1
+ smooth      1
+ smites      1
+   smit      1
+selfquestion      1
+selected      1
+recovery      1
+retrace      1
+reverteth      1
+ revert      1
+transparentdid      1
+transporting      1
+revenge      1
+revengd      1
+ reveal      1
+traveld      1
+treachery      1
+retains      1
+resolves      1
+retaind      1
+resurrection      1
+ resumd      1
+witness      1
+  treat      1
+   tree      1
+resting      1
+resteth      1
+  wrath      1
+revisit      1
+revisited      1
+transparency      1
+transmuting      1
+  rival      1
+  rises      1
+tranquillity      1
+  risen      1
+ ripend      1
+   ring      1
+   rill      1
+  rigid      1
+transcend      1
+righteous      1
+transgression      1
+transhuman      1
+richard      1
+ rialto      1
+rhodope      1
+  rhine      1
+ reward      1
+transmitting      1
+revrently      1
+tremulous      1
+ trento      1
+  track      1
+refracted      1
+  trump      1
+remaining      1
+religion      1
+release      1
+releasd      1
+ relate      1
+rejoind      1
+ regard      1
+ refuse      1
+	try      1
+ rescue      1
+reflect      1
+reference      1
+reentring      1
+reechod      1
+redemption      1
+redeemd      1
+	tua      1
+ redeem      1
+	red      1
+remarkd      1
+remember      1
+remorseless      1
+withstood      1
+requite      1
+represent      1
+  trial      1
+ replyd      1
+ spires      1
+ repine      1
+repentance      1
+   rent      1
+  tried      1
+trinacria      1
+renounce      1
+ renewd      1
+triumphd      1
+ trophy      1
+removing      1
+ remove      1
+troubled      1
+removable      1
+  truck      1
+trangressd      1
+   robe      1
+temperd      1
+scaevola      1
+scepter      1
+therein      1
+thereof      1
+scatterd      1
+ scarce      1
+  thick      1
+scantly      1
+  scant      1
+  scale      1
+thinkst      1
+satiety      1
+sayings      1
+  sawst      1
+ thomas      1
+thoroughly      1
+   wolf      1
+satisfied      1
+ thread      1
+threefold      1
+ thrice      1
+ scipio      1
+scourgd      1
+scripture      1
+seaflood      1
+ temple      1
+  seine      1
+  seeth      1
+tempting      1
+   sees      1
+	ten      1
+tendency      1
+  tends      1
+  terms      1
+testament      1
+worldly      1
+seduces      1
+testified      1
+   sect      1
+wonderd      1
+  seats      1
+  theft      1
+  theme      1
+ wolves      1
+ thrift      1
+satiated      1
+  rocks      1
+   root      1
+   rued      1
+   ruby      1
+rubicon      1
+ tobias      1
+   toil      1
+ tokens      1
+ tongue      1
+tongues      1
+  roots      1
+ romeos      1
+ thrive      1
+  tooth      1
+  romeo      1
+   torn      1
+  roman      1
+  rolls      1
+  rolld      1
+torquatus      1
+rodolph      1
+  towrd      1
+   ruld      1
+  titus      1
+   tire      1
+	run      1
+sapience      1
+sanctus      1
+ samuel      1
+thrives      1
+   salt      1
+   sake      1
+worthies      1
+  saild      1
+thwarts      1
+witnessd      1
+   safe      1
+worthiest      1
+saddens      1
+	sad      1
+timaeus      1
+ timely      1
+sabines      1
+tinkling      1
+sabaoth      1
+ abroad      1
+  linkd      1
+  parle      1
+cyprian      1
+declension      1
+  decii      1
+deceitfulness      1
+   dear      1
+  dealt      1
+   days      1
+daughters      1
+  dates      1
+   date      1
+darkend      1
+ danube      1
+ daniel      1
+  dally      1
+   cuts      1
+decretals      1
+ custom      1
+ cursed      1
+currents      1
+  cupid      1
+cunizza      1
+   cryd      1
+  crude      1
+  crowd      1
+ croton      1
+ creusa      1
+creature      1
+creating      1
+creates      1
+ decree      1
+deducing      1
+  crave      1
+deriving      1
+	dew      1
+ devout      1
+devotion      1
+devolvd      1
+   deus      1
+destruction      1
+destroyd      1
+desired      1
+ design      1
+ desert      1
+ descry      1
+describe      1
+descended      1
+ derive      1
+   deer      1
+derision      1
+  depth      1
+departure      1
+denotes      1
+denizen      1
+demophoon      1
+delusion      1
+delphic      1
+deliverd      1
+ delays      1
+  deity      1
+degrees      1
+ defect      1
+ craves      1
+  cravd      1
+	die      1
+conclude      1
+conscious      1
+conquring      1
+conjointment      1
+conjoind      1
+confusd      1
+conforms      1
+conformity      1
+confess      1
+conducted      1
+condition      1
+condescending      1
+condemnd      1
+concluded      1
+conceive      1
+consenting      1
+conceals      1
+conceal      1
+compounded      1
+composure      1
+composd      1
+complex      1
+complacency      1
+compensation      1
+compard      1
+communicated      1
+committed      1
+ coming      1
+combind      1
+consecrate      1
+consents      1
+   cowl      1
+copious      1
+covenant      1
+courtesy      1
+courteous      1
+ coursd      1
+ counts      1
+countrys      1
+counterpoise      1
+  count      1
+counsel      1
+ costly      1
+   cost      1
+corporeal      1
+corollary      1
+converse      1
+consign      1
+contradiction      1
+continued      1
+contest      1
+contented      1
+contains      1
+containd      1
+consult      1
+constrained      1
+constrain      1
+constellation      1
+constantine      1
+consisteth      1
+consignd      1
+  didos      1
+   died      1
+cologne      1
+enhance      1
+ enterd      1
+entangled      1
+  ensue      1
+ enskyd      1
+ ensign      1
+enshrine      1
+enrapturd      1
+ enough      1
+enlivens      1
+enlightend      1
+  enjoy      1
+enjoins      1
+enjoind      1
+engenders      1
+enterprise      1
+engarland      1
+ energy      1
+ endure      1
+ endurd      1
+   ends      1
+endless      1
+endeavour      1
+encumberd      1
+encloseth      1
+enamours      1
+eminence      1
+ embalm      1
+ eludes      1
+entered      1
+ enticd      1
+  elder      1
+europes      1
+exclaim      1
+exchangd      1
+excellence      1
+  excel      1
+exceeds      1
+example      1
+evident      1
+evidencd      1
+everlasting      1
+everduring      1
+ evenly      1
+	eve      1
+  eurus      1
+estrange      1
+entirely      1
+estrangd      1
+estates      1
+essences      1
+eschewd      1
+ escapd      1
+   esau      1
+erroneous      1
+erelong      1
+equaling      1
+ epirot      1
+epicycle      1
+   envy      1
+envious      1
+elements      1
+ effusd      1
+   dies      1
+disobeying      1
+	dog      1
+  doers      1
+divested      1
+diverse      1
+  diver      1
+distributed      1
+distils      1
+distance      1
+dissolve      1
+dispose      1
+displeasd      1
+displays      1
+dispensing      1
+disguisd      1
+dominic      1
+disfranchise      1
+disembogues      1
+discretion      1
+discovers      1
+discoverd      1
+discourse      1
+discernment      1
+directs      1
+  dione      1
+dimness      1
+dimension      1
+dignity      1
+ differ      1
+  doles      1
+  doomd      1
+efficacy      1
+  eager      1
+effectual      1
+effects      1
+ effect      1
+eclipse      1
+eclipsd      1
+  ebros      1
+   east      1
+ easing      1
+ easier      1
+earthly      1
+earnestly      1
+earnest      1
+	ear      1
+dyrrachium      1
+ dotage      1
+dwindled      1
+dwelling      1
+dwelleth      1
+ duties      1
+duteous      1
+   dust      1
+   duly      1
+  drops      1
+  draws      1
+   draw      1
+ draggd      1
+downward      1
+ doubts      1
+ colour      1
+collected      1
+parents      1
+arising      1
+assumption      1
+assigns      1
+ assail      1
+aspects      1
+   asks      1
+ asking      1
+  aside      1
+ ascent      1
+ ascend      1
+ arrows      1
+  arrow      1
+arrogates      1
+ armour      1
+ arisen      1
+ attend      1
+ aright      1
+arguments      1
+arguest      1
+ argued      1
+arduous      1
+ardours      1
+ arctic      1
+architect      1
+   arab      1
+aquinum      1
+approval      1
+approachd      1
+approach      1
+  atond      1
+attract      1
+apprehends      1
+   bank      1
+	bed      1
+ beauty      1
+beatrices      1
+ beasts      1
+  beast      1
+bearers      1
+   base      1
+  barrd      1
+  barkd      1
+   bari      1
+   bard      1
+	bar      1
+ banner      1
+  bands      1
+attributes      1
+   band      1
+   bale      1
+balance      1
+backward      1
+	aye      1
+	awe      1
+awarping      1
+ avouch      1
+ averse      1
+	ave      1
+ author      1
+ausonia      1
+augustin      1
+apprehension      1
+apprehending      1
+bedeckd      1
+addressd      1
+agapete      1
+afflation      1
+affirms      1
+affections      1
+adventrous      1
+adultrous      1
+ adorns      1
+  adord      1
+admitted      1
+admiring      1
+admiration      1
+  adice      1
+addressed      1
+  adder      1
+   aged      1
+adamant      1
+   acts      1
+acquird      1
+achievd      1
+ accusd      1
+accruing      1
+account      1
+accords      1
+accompanied      1
+acceptance      1
+  abyss      1
+absorbd      1
+absolve      1
+	age      1
+   airy      1
+apprehend      1
+ancient      1
+appointed      1
+  apply      1
+appetite      1
+appellation      1
+anxious      1
+anticipative      1
+antandros      1
+answered      1
+anothers      1
+animals      1
+ animal      1
+angelical      1
+   anew      1
+amplitude      1
+   alas      1
+amorous      1
+amongst      1
+  amiss      1
+   amid      1
+although      1
+  alter      1
+ alpine      1
+  aloft      1
+allowed      1
+aliment      1
+alcmaeon      1
+ albert      1
+   alba      1
+   bede      1
+befalls      1
+colchos      1
+  canst      1
+chances      1
+certainly      1
+certain      1
+ centre      1
+ceasing      1
+  ceasd      1
+  causd      1
+ caught      1
+catalonia      1
+  casts      1
+cassius      1
+carried      1
+cardinals      1
+cancelld      1
+charged      1
+calleth      1
+   cain      1
+cagnano      1
+caesars      1
+ busied      1
+   burn      1
+ burden      1
+ brutus      1
+brought      1
+brothers      1
+  brook      1
+  brood      1
+bringst      1
+chanting      1
+charitable      1
+  bring      1
+circuitous      1
+coffers      1
+  coast      1
+cloisters      1
+  clock      1
+climate      1
+cleopatra      1
+clemenza      1
+clearliest      1
+clearing      1
+cleanse      1
+claritate      1
+ claims      1
+cirrhaean      1
+circled      1
+charlemagne      1
+cincturd      1
+cieldauro      1
+christians      1
+christian      1
+  chose      1
+choicest      1
+childish      1
+  child      1
+ chiefs      1
+  cheer      1
+  cheek      1
+ charms      1
+ charmd      1
+ brings      1
+  brine      1
+  begga      1
+bending      1
+blackness      1
+  black      1
+bituminous      1
+ bitter      1
+  birth      1
+   bird      1
+  binds      1
+bickring      1
+bewilderd      1
+bethink      1
+bestowd      1
+berenger      1
+ benign      1
+  bench      1
+blameless      1
+  belus      1
+ belovd      1
+belisarius      1
+believst      1
+believing      1
+believes      1
+behooved      1
+behoovd      1
+beholdest      1
+beguiled      1
+beginning      1
+  begin      1
+begging      1
+  blame      1
+  blank      1
+brightning      1
+ borrow      1
+bridegrooms      1
+bridegroom      1
+ brenta      1
+brennus      1
+breathe      1
+ breath      1
+ breaks      1
+ braver      1
+brancheth      1
+  brake      1
+ bounds      1
+ bosoms      1
+borrowd      1
+boroughs      1
+  blaze      1
+   bore      1
+   boon      1
+   bold      1
+boiling      1
+  board      1
+blossoms      1
+  bloom      1
+blindly      1
+  blind      1
+   blew      1
+blessedness      1
+blended      1
+blazeth      1
+exculpate      1
+excusable      1
+  exild      1
+   lets      1
+lingring      1
+ linger      1
+lineaments      1
+lineage      1
+   line      1
+ limits      1
+ lilies      1
+ lilied      1
+lighteth      1
+lighter      1
+ lifted      1
+  liege      1
+  level      1
+   lent      1
+   lips      1
+	led      1
+leaving      1
+learning      1
+leapeth      1
+  leapd      1
+leanness      1
+   lean      1
+ league      1
+   lays      1
+	lay      1
+lavinias      1
+laurence      1
+ laurel      1
+   lion      1
+listning      1
+laughing      1
+ losing      1
+malahoth      1
+  makst      1
+ mainly      1
+magnificent      1
+ macras      1
+lustrous      1
+   lust      1
+  lunar      1
+luminary      1
+lucrece      1
+  lovst      1
+ loving      1
+ lovdst      1
+   lose      1
+  lists      1
+   lore      1
+lording      1
+   lord      1
+ looses      1
+loosend      1
+ lookst      1
+looking      1
+lombard      1
+  loire      1
+  locks      1
+  lives      1
+liveliness      1
+   live      1
+laughter      1
+latonas      1
+ maltas      1
+ issued      1
+joining      1
+   john      1
+   jews      1
+ jewels      1
+  jewel      1
+	jew      1
+jephthah      1
+  jason      1
+	jar      1
+  janus      1
+  jacob      1
+italian      1
+ issues      1
+  issue      1
+  joves      1
+israelites      1
+isidore      1
+ iseres      1
+   iron      1
+	ire      1
+iphigenia      1
+   iole      1
+invocation      1
+invites      1
+invisible      1
+introducd      1
+intently      1
+intelligibly      1
+ joshua      1
+joyance      1
+ lastly      1
+  kings      1
+  lashd      1
+largeliest      1
+  large      1
+  lapse      1
+language      1
+   lamp      1
+   lair      1
+ ladies      1
+ ladder      1
+  lackd      1
+ labour      1
+   knit      1
+   knew      1
+  kinds      1
+joyously      1
+ kindle      1
+   kick      1
+   kept      1
+  keeps      1
+keeping      1
+ keener      1
+   keen      1
+   keel      1
+justinian      1
+judgments      1
+  judge      1
+   juba      1
+   joys      1
+ mallet      1
+manifest      1
+  exile      1
+obeying      1
+offending      1
+oerwhelmd      1
+oerspread      1
+oerruling      1
+oerpassd      1
+oercome      1
+oercame      1
+obvious      1
+observe      1
+obscurd      1
+oblivion      1
+oblique      1
+oblation      1
+nutrition      1
+  offer      1
+numberless      1
+nothing      1
+   note      1
+  notch      1
+noncompliance      1
+nobility      1
+   nine      1
+   nile      1
+  night      1
+newrisn      1
+newness      1
+  newly      1
+newcrownd      1
+offends      1
+offering      1
+   neck      1
+overladen      1
+   pang      1
+   palm      1
+ pallas      1
+palermo      1
+   pale      1
+   pair      1
+painted      1
+   pain      1
+ paduas      1
+pachynian      1
+   owns      1
+overruld      1
+overpowerd      1
+overeagerness      1
+ offers      1
+outward      1
+outstretchd      1
+outspread      1
+  ought      1
+ organs      1
+ orders      1
+ordains      1
+opposite      1
+ oppose      1
+operations      1
+	opd      1
+omnipotent      1
+ofttimes      1
+ nether      1
+necessity      1
+ manner      1
+meaning      1
+methods      1
+ method      1
+  merit      1
+meridian      1
+mercury      1
+members      1
+melchisidec      1
+  meets      1
+   meet      1
+   meek      1
+   meed      1
+measurd      1
+meanwhile      1
+	maw      1
+	mid      1
+ matins      1
+ master      1
+  marys      1
+martyrdom      1
+marsyas      1
+  marsh      1
+marking      1
+markest      1
+  maria      1
+margins      1
+mantling      1
+ mantle      1
+   mans      1
+michael      1
+mightst      1
+ nearly      1
+mothers      1
+nazareth      1
+natures      1
+ native      1
+ nation      1
+nathless      1
+  names      1
+musings      1
+musical      1
+  music      1
+multiply      1
+ movers      1
+  mourn      1
+motions      1
+  moses      1
+   milk      1
+morsels      1
+morning      1
+   mood      1
+monarchs      1
+   mold      1
+modenas      1
+ mockry      1
+   mixd      1
+misguided      1
+minister      1
+minerva      1
+  minds      1
+ minded      1
+intelligent      1
+intelligence      1
+instructed      1
+  fords      1
+freight      1
+  freed      1
+fourfold      1
+fountainsprings      1
+foundation      1
+  forum      1
+fortune      1
+forfeit      1
+foresight      1
+foremost      1
+foreign      1
+forehead      1
+forecast      1
+   ford      1
+ fruits      1
+forceth      1
+forasmuch      1
+fondness      1
+follows      1
+followd      1
+foliage      1
+  folds      1
+   fold      1
+  folco      1
+   foes      1
+ fluent      1
+ flower      1
+  flowd      1
+frenzied      1
+ fulfil      1
+  flock      1
+ genius      1
+ gladly      1
+ giving      1
+  gives      1
+   girt      1
+  girds      1
+   gird      1
+  gifts      1
+   gift      1
+ghibellines      1
+ german      1
+ gently      1
+ gentle      1
+ genoan      1
+generator      1
+furnishd      1
+generation      1
+generates      1
+ gazing      1
+   gazd      1
+gathers      1
+garland      1
+   gall      1
+   gale      1
+ gainst      1
+   gain      1
+  gaeta      1
+furthest      1
+ furrow      1
+   flow      1
+  flies      1
+instinct      1
+falsehood      1
+ fathom      1
+fathers      1
+ father      1
+   fate      1
+	fat      1
+   fast      1
+fashioneth      1
+farther      1
+fantasy      1
+  fangs      1
+  fancy      1
+ family      1
+   fame      1
+  falln      1
+ favour      1
+  faint      1
+fabling      1
+ fabled      1
+  fabii      1
+eyesight      1
+extreme      1
+explore      1
+exploit      1
+experience      1
+expected      1
+expatiates      1
+expands      1
+  exist      1
+ faulty      1
+fearless      1
+fleshly      1
+  filld      1
+ fledgd      1
+flavour      1
+  fixed      1
+	fix      1
+   five      1
+	fit      1
+   fish      1
+firstraisd      1
+firstborn      1
+ firmly      1
+firebrand      1
+finding      1
+   find      1
+   fill      1
+  feast      1
+  fifth      1
+fiercer      1
+ fickle      1
+  fewer      1
+ferraras      1
+ feltro      1
+   felt      1
+fellowship      1
+felices      1
+ feignd      1
+   feed      1
+	fed      1
+feather      1
+gladsome      1
+glaucus      1
+  glide      1
+ illume      1
+imprints      1
+impressd      1
+impress      1
+impregnate      1
+impicturd      1
+impenitent      1
+ impels      1
+impassible      1
+ impart      1
+immutably      1
+imagind      1
+imagination      1
+  image      1
+   ills      1
+ impute      1
+illmarkd      1
+  ignes      1
+   idle      1
+ hunger      1
+humility      1
+humbled      1
+household      1
+  hosts      1
+  horum      1
+   horn      1
+horizon      1
+ hordes      1
+honours      1
+ impure      1
+inasmuch      1
+glistning      1
+informd      1
+instilld      1
+inspires      1
+inspired      1
+inspiration      1
+inquiring      1
+inquirest      1
+inquire      1
+ inmost      1
+injuring      1
+inherent      1
+inhabits      1
+ infuse      1
+informing      1
+influencing      1
+incited      1
+influences      1
+inflicted      1
+inflame      1
+inflamd      1
+inference      1
+  infer      1
+infatuate      1
+inexpressive      1
+ineffable      1
+ indite      1
+ indeed      1
+increate      1
+included      1
+   home      1
+holiest      1
+  holds      1
+graciously      1
+  grows      1
+   grow      1
+ ground      1
+  gripe      1
+greeting      1
+ greeks      1
+ greedy      1
+greatest      1
+  grave      1
+gratitude      1
+gratian      1
+gratefully      1
+grateful      1
+ gospel      1
+hindrance      1
+   gore      1
+ goodly      1
+goodliest      1
+   goes      1
+godshow      1
+godless      1
+goddess      1
+glowing      1
+  glowd      1
+   glow      1
+ gloomy      1
+  gloom      1
+glitter      1
+ grudge      1
+  guard      1
+guelphs      1
+guidance      1
+	hid      1
+heretic      1
+ herein      1
+   herb      1
+hemisphere      1
+   help      1
+   hell      1
+heights      1
+heedless      1
+ hector      1
+  heavy      1
+heavnly      1
+   heat      1
+   head      1
+ havens      1
+haughty      1
+hasteneth      1
+hastend      1
+harmful      1
+harbourst      1
+harbour      1
+happiest      1
+happend      1
+hannibal      1
+  haild      1
+   gulf      1
+  guilt      1
+   zone      1
