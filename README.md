@@ -32,38 +32,29 @@ Operating instructions
 ==============================================================================================
 Sample Applications and outputs
 ==============================================================================================
----+------------------------------------+------------------------------+
+   |  Dataset                           | Source Folder                |
+---|------------------------------------|------------------------------|
 1. |  Word Count Application and output	|  word_count                  |
----+------------------------------------+------------------------------+
 2. |  Analysis on National Names dataset|  national_names_analysis     |
----+------------------------------------+------------------------------+
-3. |  Analysis on NYPD Motor Vehicle 	|                              |
-   |  collision dataset		        |  nypd_mv_collision_analysis  |
----+------------------------------------+------------------------------+
+3. |  Analysis on NYPD Motor Vehicle collision dataset	|  nypd_mv_collision_analysis  |
+ 		        
 
 ==============================================================================================
 Data Set References
 ==============================================================================================
-1. Dataset for word count:
-	http://www.gradesaver.com/divine-comedy-paradiso/e-text/canto-1
-2. National Names dataset: 
-	https://www.kaggle.com/kaggle/us-baby-names
-3. NYPD Motor Vehicle collision dataset:
-	https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95
-	
+   |  Dataset                           | Source                 |
+---|------------------------------------|------------------------------|
+1. |  Dataset for word count:	|  http://www.gradesaver.com/divine-comedy-paradiso/e-text/canto-1                  |
+2. |  National Names dataset:|  https://www.kaggle.com/kaggle/us-baby-names    |
+3. |  NYPD Motor Vehicle collision dataset	|  https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95  |
+
+		
 ==============================================================================================
 Observations
 ==============================================================================================
----+--------------------+---------------------------+-----------------------------------+
-   |  DATASET			|	DATASET SIZE            |	PERFORMANCE          		    |
----+--------------------+---------------------------+-----------------------------------+
-1. | WordCountData.txt	| WordCountData.txt 60KB,   | Counted all words in 				|
-   |					| ~1500 Lines			    | 27 milli-seconds.					|
----+--------------------+---------------------------+-----------------------------------+
-2. | NationalNames.csv	| 42MB,						| Average Query Time: 11 msec		|
-   |					| ~2 Million Records		| For 4 queries						|
----+--------------------+---------------------------+-----------------------------------+
-3. | NYPD_Motor_Vehicle	| 176 MB                    | Average Query Time: 22 msec		|      
-   | _Collisions.csv	| ~1 Million Records		| For 4 queries						|
-   |					| 							| 									|   
----+--------------------+---------------------------+-----------------------------------+
+   |  DATASET		|	DATASET SIZE                   |	PERFORMANCE                        |
+---|--------------------|--------------------------------------|-------------------------------------------|
+1. | WordCountData.txt	| WordCountData.txt 60KB,~1500 Lines   | Counted all words in 27 milli-seconds.    |
+2. | NationalNames.csv	| 42MB,	 ~2 Million Records	       | Average Query Time: 11 msec,For 4 queries |
+3. | NYPD_Motor_Vehicle_Collisions.csv	| 176 MB, ~1 Million Records    | Average Query Time: 22 msec  For 4 queries|      
+   
