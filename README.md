@@ -65,8 +65,8 @@ Refer `docs/query_details.docx` for pre-processing steps.
 Data Set References
 ==============================================================================================
 
-| Dataset | Source |
-| ------- | ------------------------------ |
+| Dataset | Name | Url |
+| ------- | ------------------------------ | -- |
 | 1. |  Dataset for word count: |  http://www.gradesaver.com/divine-comedy-paradiso/e-text/canto-1 |
 | 2. |  National Names dataset: |  https://www.kaggle.com/kaggle/us-baby-names    |
 | 3. |  NYPD Motor Vehicle collision dataset |  https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95  |
